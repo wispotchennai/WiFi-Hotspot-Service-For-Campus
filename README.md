@@ -1,0 +1,2 @@
+# WiFi-Hotspot-Service-For-Campus
+Campus is With the increasing demand for internet access in educational campuses due to evolving standard of education and flexibility offered by the Internet - universities, colleges, educational institutes etc., are keenly stepping forward to setup secured and stable wired or Wi-Fi network campus for their students. As per the current market trend, most of the students like to carry 3-4 devices with them like mobile, tablets, laptops, ipods etc. 
